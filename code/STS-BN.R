@@ -227,7 +227,9 @@ Phase_II<-function(x,pacan,v){
   
 }
 
-##############################################################
+##############################
+#         Run STS-BN         #
+##############################
 tdata=read.csv("example.csv",colClasses ="factor")
 #In this data, "A" and "B" are disease associated sites.
 bv1=0.05
