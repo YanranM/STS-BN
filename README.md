@@ -1,4 +1,4 @@
-# A score-based two-stage Bayesian network method for detecting causal SNPs
+# STS-BN: An efficient Bayesian network method for detecting causal SNPs
 
 STS-BN algorithm is a score based two-stage Bayesian network method for detecting causal SNPs, where the idea of the constraint-based method and score-and-search method are both used. 
 
