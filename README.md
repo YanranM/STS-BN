@@ -8,4 +8,4 @@ There is also an example data which can be used for algorithm demonstrations. (*
 
 Pictures in the "*plots*" folder are the results of our simulation study.
 
-The "*Simulation*" folder contains all simulated data used in our simulation.
+The "*SimulationData*" folder contains all simulated data used in our simulation.
